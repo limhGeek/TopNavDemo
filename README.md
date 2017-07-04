@@ -1,3 +1,3 @@
 # TopNavDemo
 仿掘金顶部导航栏 kotlin版
-![image](http://github.com/limhGeek/TopNavDemo/app/images/gif.gif)
+![image text](https://raw.githubusercontent.com/limhGeek/TopNavDemo/304083ed746ffefbf5a31c853c421bf5fdd7f40a/app/image/gif.gif)
